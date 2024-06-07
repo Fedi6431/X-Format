@@ -4,9 +4,20 @@ import os
 
 clear = os.system('cls')
 dr = DR = r = R = cc.LIGHTRED_EX
+dr = DR = r = R = cc.LIGHTRED_EX
 init()
 
-dr = DR = r = R = cc.LIGHTRED_EX
+def is_admin():
+    try:
+        return ctypes.windll.shell32.IsUserAnAdmin()
+    except:
+        return False
+
+def run_as_admin():
+    if not is_admin():
+        ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
+        exit(0)
+
 def Xformat():
     while True:
         clear = os.system('cls')
@@ -330,4 +341,6 @@ Info            Show infos
                     else:
                         print('Operation canceled')
                     input("Press enter to get back to the main screen")
-Xformat()
+if __name__ == '__main__':
+    run_as_admin()
+    Xformat()
