@@ -1,5 +1,7 @@
-import subprocess
 from colorama import init, Fore as cc
+import subprocess
+import ctypes
+import sys
 import os
 
 clear = os.system('cls')
