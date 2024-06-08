@@ -20,3 +20,8 @@ When you run the installer, it will download the necessary packages on requireme
 This is the main GUI of the program.
 
 ### Functions & Controls
+
+#### - help
+If you type "help" in the program console, you will be shown all the possible commands with their descriptions.
+
+![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/01699e0f-0b47-44bd-a630-25fc9c0d726c)
