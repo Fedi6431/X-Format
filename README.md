@@ -32,4 +32,5 @@ After typing "formatusb" the program will ask you in what type of file you want 
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/bb777cfb-2fee-4bc9-ad18-47c9ae5b965b)
 
 I purposely chose a non-existent hard drive, but if I had written D: it would have formatted the USB stick with the FAT32 file type
+
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/a5bc4e31-1174-4460-bb9f-403b8393b8d2)
