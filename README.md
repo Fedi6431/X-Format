@@ -1,4 +1,4 @@
-# X-Backup
+# X-Format
 
 ## ⚠ PLEASE ATTENTION ⚠
 This program was developed with Windows 10
@@ -14,7 +14,7 @@ Just click on "run" button
 
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
-## X-Backup
+## X-Format
 
 
 This is the main GUI of the program.
