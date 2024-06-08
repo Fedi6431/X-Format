@@ -15,7 +15,7 @@ Just click on "run" button
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
 ## X-Format
-
+![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/f3fa2aac-b52f-4cdb-b80c-282b8de03d97)
 
 This is the main GUI of the program.
 
