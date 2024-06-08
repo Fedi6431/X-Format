@@ -34,3 +34,21 @@ After typing "formatusb" the program will ask you in what type of file you want 
 I purposely chose a non-existent hard drive, but if I had written D: it would have formatted the USB stick with the FAT32 file type
 
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/a5bc4e31-1174-4460-bb9f-403b8393b8d2)
+
+#### - format
+If you type "format" the program will ask you what folder
+
+![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/0fc96986-8d96-40b2-b887-89868ff2b341)
+
+After choosing the folder the program will ask if you are sure about this option
+
+![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/8dac544a-3522-479c-97b0-7eb7599d8597)
+
+If you press enter or any key the program will end the script 
+
+![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/27c957fe-25f1-4eb9-a3bc-db788b98e20f)
+
+But if you type "Yes/yes" the program will format your computer
+
+
+
