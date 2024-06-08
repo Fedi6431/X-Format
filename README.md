@@ -2,6 +2,7 @@
 
 ## ⚠ PLEASE ATTENTION ⚠
 This program was developed with Windows 10
+
 I'll also make a linux version but not now
 
 # User guide 
