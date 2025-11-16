@@ -10,7 +10,7 @@ Start the installer.bat file, it'll execute the command `pip install -r requirem
 ### Linux
 Set the installer.sh to executable with the command `chmod +x installer.sh` and run it with `./installer.sh`
 
-## X-Format
+## Usage 
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/f3fa2aac-b52f-4cdb-b80c-282b8de03d97)
 
 ### Functions & Controls
