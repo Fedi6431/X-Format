@@ -1,8 +1,5 @@
 # X-Format
 
-## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows
-
 # User guide 
 ## Installer
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/15cba286-70d4-4f11-a94a-20a8d167c959)
