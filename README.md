@@ -28,7 +28,5 @@ After choosing the folder the program will ask if you are sure about this option
 
 If you press enter or any key the program will end the script 
 
-But if you type "Yes/yes" the program will format your computer
-
 
 
