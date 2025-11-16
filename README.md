@@ -13,8 +13,6 @@ Set the installer.sh to executable with the command `chmod +x installer.sh` and 
 ## X-Format
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/f3fa2aac-b52f-4cdb-b80c-282b8de03d97)
 
-This is the main GUI of the program.
-
 ### Functions & Controls
 
 #### - help
