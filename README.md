@@ -1,8 +1,14 @@
 # X-Format
 
-# User guide 
-## Installer
-When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+# User guide
+
+## Installation
+
+### Windows
+Start the installer.bat file, it'll execute the command `pip install -r requirements.txt` and start the program
+
+### Linux
+Set the installer.sh to executable with the command `chmod +x installer.sh` and run it with `./installer.sh`
 
 ## X-Format
 ![immagine](https://github.com/Fedi6431/X-Format/assets/102946457/f3fa2aac-b52f-4cdb-b80c-282b8de03d97)
